@@ -1,0 +1,33 @@
+.nama-kafe-title,
+.thank-you-text,
+.no-cash-payment-text {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 800;
+}
+
+.alamat-kafe-title {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 700;
+}
+
+.no-pesanan,
+.tgl-pembelian,
+.metode-pembayaran,
+.meja-pelanggan,
+.nama-pelanggan,
+.nama-produk-title,
+.harga-produk-title,
+.jumlah-pembelian-title,
+.total-pembayaran-text,
+.uang-tunai-text,
+.kembali-text {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 600;
+}
+
+.produk,
+.harga-produk,
+.jumlah-produk {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 500;
+}

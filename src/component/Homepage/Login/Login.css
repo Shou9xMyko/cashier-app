@@ -1,0 +1,41 @@
+.wrapperLogin {
+  border: 2px solid #ff4500 !important;
+  border-radius: 0.8em;
+}
+
+.col-img {
+  -right: 2px solid #ff4500 !important;
+}
+
+.titleRegistrasi {
+  font-family: "Plus Jakarta Sans", sans-serif !important;
+  font-weight: 700 !important;
+  color: #ff4500 !important;
+}
+
+.form-label {
+  font-family: "Plus Jakarta Sans", sans-serif !important;
+  font-weight: 600 !important;
+  color: #ff4500 !important;
+}
+.form-control-login {
+  font-family: "Plus Jakarta Sans", sans-serif !important;
+  font-weight: 500 !important;
+}
+
+.form-control-login-password {
+  font-family: "Plus Jakarta Sans", sans-serif !important;
+  font-weight: 500 !important;
+  border-right: none !important;
+  border-color: #dee2e6 !important;
+}
+
+.btn-login {
+  padding: 0.4em 2em !important;
+  background-color: #ff4500 !important;
+}
+
+.text-dont-have-account {
+  font-family: "Plus Jakarta Sans", sans-serif !important;
+  font-weight: 600 !important;
+}

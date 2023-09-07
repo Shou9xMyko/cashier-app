@@ -1,0 +1,8 @@
+.title {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 700;
+}
+
+.btn-laporan-penjualan:hover {
+  text-decoration: underline !important;
+}
